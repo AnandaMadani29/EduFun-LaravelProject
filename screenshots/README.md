@@ -1,16 +1,15 @@
 # Screenshots
 
-Please add your screenshots here with the following names:
+Screenshots are already saved in this folder:
 
-1. **home.png** - Home page with hero section and latest articles
-2. **category-data-science.png** - Data Science category page
-3. **category-network-security.png** - Network Security category page
-4. **course-detail.png** - Course detail page (any course)
-5. **writers.png** - Writers page showing all writers
-6. **writer-articles.png** - Individual writer's articles page
-7. **about.png** - About Us page
-8. **popular-page1.png** - Popular page (page 1)
-9. **popular-page2.png** - Popular page (page 2)
+1. ✅ **home.png** - Home page with hero section and latest articles
+2. ✅ **category-data-science.png** - Data Science category page
+3. ✅ **article.png** / **article-2.png** - Course detail pages
+4. ✅ **writer.png** - Writers page showing all writers
+5. ✅ **writer-articles.png** - Individual writer's articles page
+6. ✅ **about.png** - About Us page
+7. ✅ **popular-page-1.png** - Popular page (page 1)
+8. ✅ **popular-page-2.png** - Popular page (page 2)
 
 ## How to Take Screenshots:
 

@@ -516,32 +516,28 @@ laravel-project/
 ![Data Science Category](screenshots/category-data-science.png)
 *Data Science category showing Machine Learning, Deep Learning, and NLP courses*
 
-### 3. Category - Network Security
-![Network Security Category](screenshots/category-network-security.png)
-*Network Security category showing Software Security, Network Administration, and Popular Network Technology*
-
-### 4. Course Detail Page
-![Course Detail](screenshots/course-detail.png)
+### 3. Course Detail Page
+![Course Detail](screenshots/article.png)
 *Detailed course view with full content, writer information, and view counter*
 
-### 5. Writers Page
-![Writers Page](screenshots/writers.png)
+### 4. Writers Page
+![Writers Page](screenshots/writer.png)
 *All writers displayed with profile photos and specializations*
 
-### 6. Writer's Articles
+### 5. Writer's Articles
 ![Writer Articles](screenshots/writer-articles.png)
 *Individual writer's profile and their published articles*
 
-### 7. About Us Page
+### 6. About Us Page
 ![About Page](screenshots/about.png)
 *About EduFun page with company information and mission statement*
 
-### 8. Popular Page - Page 1
-![Popular Page 1](screenshots/popular-page1.png)
+### 7. Popular Page - Page 1
+![Popular Page 1](screenshots/popular-page-1.png)
 *Most viewed articles sorted by popularity (Page 1 - showing 3 articles)*
 
-### 9. Popular Page - Page 2
-![Popular Page 2](screenshots/popular-page2.png)
+### 8. Popular Page - Page 2
+![Popular Page 2](screenshots/popular-page-2.png)
 *Most viewed articles sorted by popularity (Page 2 - showing next 3 articles)*
 
 ---
