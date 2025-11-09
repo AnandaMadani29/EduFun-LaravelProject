@@ -510,6 +510,7 @@ laravel-project/
 
 ### 1. Home Page
 ![Home Page](screenshots/home.png)
+![Home Page](screenshots/home-2.png)
 *Home page featuring hero section with gradient background and latest 6 articles in card layout*
 
 ### 2. Category - Data Science
@@ -518,18 +519,22 @@ laravel-project/
 
 ### 3. Course Detail Page
 ![Course Detail](screenshots/article.png)
+![Course Detail](screenshots/article-2.png)
 *Detailed course view with full content, writer information, and view counter*
 
 ### 4. Writers Page
 ![Writers Page](screenshots/writer.png)
+![Writers Page](screenshots/writer-2.png)
 *All writers displayed with profile photos and specializations*
 
 ### 5. Writer's Articles
 ![Writer Articles](screenshots/writer-articles.png)
+![Writer Articles](screenshots/writer-articles-2.png)
 *Individual writer's profile and their published articles*
 
 ### 6. About Us Page
 ![About Page](screenshots/about.png)
+![About Page](screenshots/about-2.png)
 *About EduFun page with company information and mission statement*
 
 ### 7. Popular Page - Page 1
