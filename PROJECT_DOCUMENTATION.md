@@ -506,38 +506,43 @@ laravel-project/
 
 ## Screenshots
 
-### Home Page
+> **Note:** To add screenshots, save your images in the `screenshots/` folder and they will automatically appear here.
+
+### 1. Home Page
 ![Home Page](screenshots/home.png)
-- Hero section with welcome message
-- Latest 6 articles displayed in grid
-- Responsive card design
+*Home page featuring hero section with gradient background and latest 6 articles in card layout*
 
-### Category Page
-![Category Page](screenshots/category.png)
-- Filtered courses by category
-- Consistent layout with home page
+### 2. Category - Data Science
+![Data Science Category](screenshots/category-data-science.png)
+*Data Science category showing Machine Learning, Deep Learning, and NLP courses*
 
-### Course Detail Page
+### 3. Category - Network Security
+![Network Security Category](screenshots/category-network-security.png)
+*Network Security category showing Software Security, Network Administration, and Popular Network Technology*
+
+### 4. Course Detail Page
 ![Course Detail](screenshots/course-detail.png)
-- Full course information
-- Writer profile
-- View counter
+*Detailed course view with full content, writer information, and view counter*
 
-### Writers Page
+### 5. Writers Page
 ![Writers Page](screenshots/writers.png)
-- All writers displayed
-- Professional profile cards
+*All writers displayed with profile photos and specializations*
 
-### Popular Page
-![Popular Page](screenshots/popular.png)
-- Most viewed articles
-- Pagination controls
-- View count badges
+### 6. Writer's Articles
+![Writer Articles](screenshots/writer-articles.png)
+*Individual writer's profile and their published articles*
 
-### About Us Page
+### 7. About Us Page
 ![About Page](screenshots/about.png)
-- Company information
-- Mission and vision
+*About EduFun page with company information and mission statement*
+
+### 8. Popular Page - Page 1
+![Popular Page 1](screenshots/popular-page1.png)
+*Most viewed articles sorted by popularity (Page 1 - showing 3 articles)*
+
+### 9. Popular Page - Page 2
+![Popular Page 2](screenshots/popular-page2.png)
+*Most viewed articles sorted by popularity (Page 2 - showing next 3 articles)*
 
 ---
 
@@ -545,8 +550,8 @@ laravel-project/
 
 **Name:** Ananda Madani  
 **Student ID:** 2602192941  
-**Email:** [Your Email]  
-**WhatsApp/Line:** [Your Contact]
+**Email:** ananda.madani@binus.ac.id 
+**WhatsApp:** 082114644232
 
 ---
 
